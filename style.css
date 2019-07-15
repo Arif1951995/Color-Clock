@@ -1,0 +1,13 @@
+body {
+    background-color: #339944;
+
+}
+.clock {
+
+    width: 70%;
+    text-align: center;
+    margin: 10% auto;
+    font-size: 4em;
+    font-weight: bolder;
+    
+}
